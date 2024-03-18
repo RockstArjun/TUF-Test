@@ -19,8 +19,7 @@ This web application allows users to submit and display code snippets. It consis
 
 1. **Clone the repository:**
    ```bash
-   git clone [repository-url]
-   cd code-snippet-submission-app
+   git clone https://github.com/RockstArjun/TUF-Test
 
 # Install dependencies:
 
